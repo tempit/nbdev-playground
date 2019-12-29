@@ -10,9 +10,9 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: module name here
+      title: nbdev Playground
       url: /core
     output: web
-    title: nbdev-playground
+    title: nbdev_playground
   output: web
   title: Sidebar

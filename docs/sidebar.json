@@ -1,6 +1,6 @@
 {
-  "nbdev-playground": {
+  "nbdev_playground": {
     "Overview": "/",
-    "module name here": "/core"
+    "nbdev Playground": "/core"
   }
 }
