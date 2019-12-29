@@ -10,7 +10,7 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: nbdev Playground
+      title: Playground
       url: /core
     output: web
     title: nbdev_playground
