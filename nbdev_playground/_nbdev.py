@@ -7,6 +7,6 @@ index = {"say_hello": "00_core.ipynb",
 
 modules = ["core.py"]
 
-git_url = "https://github.com/tempit/nbdev_playground/tree/master/"
+git_url = "https://github.com/tempit/nbdev-playgrond/tree/master/"
 
 def custom_doc_links(name): return None
